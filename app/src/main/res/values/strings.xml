@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">R7Coffeina</string>
+    <string name="logoDescription">This is Logo</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Snacks</item>
+        <item>Our Coffees</item>
+    </string-array>
+</resources>
